@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Typescript
 <div>
     <a href="https://github.com/GuilhermehASilva"></a>
-       <b>Hello, I'm Guilherme. I specialize in Web Development and software development. I am currently studying Information System at college. My passion is always to provide the best experience and interactivity for the user</b>.<br>
+       <b>Hello, I'm Guilherme. I specialize in Web Development and Software Development. I am currently studying Information System. My passion is always to provide the best experience and interactivity for the user</b>.<br>
 <br>
       <b>Languages and Tools:</b><br>
 <br>
